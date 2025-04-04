@@ -16,6 +16,7 @@ Lecturer: Bo Peng, Associate Professor, Institute of Automation CAS
 Teaching Assistant (TA): Zheling Meng, Ph.D. Candidate, Institute of Automation CAS, mengzheling2023@ia.ac.cn
 
 *If you encounter any issue, feel free to raise an issue in this repo or contact with the TA.*
+*If you feel it a good repo, star it!*
 
 # 📣 News
 - **[2025-04-04]** New! DeepfakesAdvTrack has been released! Let's try it! 
