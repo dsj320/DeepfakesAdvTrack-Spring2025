@@ -1,5 +1,5 @@
 # Deepfake Generation in DeepfakesAdvTrack - Spring 2025
-This is the offical code for deepfake generation in DeepfakesAdvTrack, the practice session of the cource AI Security and Adversarial Defense (UCAS, spring 2025).
+This is the offical code for deepfake generation in DeepfakesAdvTrack, the practice session of the course Artificial Intelligence Security, Attacks and Defenses (UCAS, spring 2025).
 
 ## ⚡ How to start
 1. Download the dataset

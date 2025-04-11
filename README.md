@@ -1,11 +1,11 @@
 # ✨ DeepfakesAdvTrack - Spring 2025
 Hi, every one! 
 
-This is the official repository for DeepfakesAdvTrack, the practical session of the cource **AI Security and Adversarial Defense** which is offered to students of UCAS in the spring of 2025.
+This is the official repository for DeepfakesAdvTrack, the practice session of the course **Artificial Intelligence Security, Attacks and Defenses** which is offered to graduate students of UCAS in the spring of 2025.
 
-## Cource infomation
+## Course infomation
 
-Name: AI Security and Adversarial Defense (180206081104P3005H)
+Name: Artificial Intelligence Security, Attacks and Defenses (180206081104P3005H)
 
 Semester: Spring 2025
 

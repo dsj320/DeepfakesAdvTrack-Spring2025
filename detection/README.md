@@ -1,5 +1,5 @@
 # Deepfake Detection in DeepfakesAdvTrack - Spring 2025
-This is the offical code for deepfake detection in DeepfakesAdvTrack, the practice session of the cource AI Security and Adversarial Defense (UCAS, spring 2025).
+This is the offical code for deepfake generation in DeepfakesAdvTrack, the practice session of the course Artificial Intelligence Security, Attacks and Defenses (UCAS, spring 2025).
 
 ## ⚡ How to start quickly
 1. Download the code base
@@ -10,8 +10,8 @@ cd DeepfakesAdvTrack-Spring2025/detection
 
 2. Prepare the running environment
 ```
-conda create -n cource_AISA python==3.7.12
-conda activate cource_AISA
+conda create -n course_AISA python==3.7.12
+conda activate course_AISA
 pip3 install --upgrade pip
 pip install -r requirements.txt
 ```
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 3. Download the dataset
 
 Please refer to [Google Drive](https://drive.google.com/drive/folders/1JflHqhR4_YX_rFrEcqR56XYzFOpR_vGa?lfhs=2).
-- Training set: CelebDF-v2-training ([access require](https://github.com/yuezunli/celeb-deepfakeforensics)). The use of CelebDF-v1/v2 val/test set is forbidden. If you use the data from other sources for training, you should declare it in your final cource report.
+- Training set: CelebDF-v2-training ([access require](https://github.com/yuezunli/celeb-deepfakeforensics)). The use of CelebDF-v1/v2 val/test set is forbidden. If you use the data from other sources for training, you should declare it in your final course report.
 - Validation set: UCAS_AISA-val. The labels are included.
 - Test set 1: UCAS_AISA-test1. No label is given.
 - Test set 2: UCAS_AISA-test2. It includes the images collected from Deepfake Generation and will be released at the last week of the practice.
