@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 3. Download the dataset
 
-Please refer to [Google Drive](https://drive.google.com/drive/folders/1JflHqhR4_YX_rFrEcqR56XYzFOpR_vGa?lfhs=2).
+Please acquire the download link from our Wechat.
 - Training set: CelebDF-v2-training ([access require](https://github.com/yuezunli/celeb-deepfakeforensics)). The use of CelebDF-v1/v2 val/test set is forbidden. If you use the data from other sources for training, you should declare it in your final course report.
 - Validation set: UCAS_AISA-val. The labels are included.
 - Test set 1: UCAS_AISA-test1. No label is given.
